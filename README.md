@@ -49,7 +49,7 @@ For Companies 🏢
 
 Tracks industry-wide hiring patterns
 Can help with salary benchmarking and workforce planning
-🚀 Future Plans \n
+🚀 Future Plans 
 🔹 Expand to more job platforms for a wider dataset
 🔹 Automate the scraping process with scheduling tools
 🔹 Implement salary prediction models using machine learning
